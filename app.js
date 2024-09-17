@@ -31,7 +31,7 @@ function displayMeals(meals) {
                 </figure>
                 <div class="card-body">
                     <h2 class="card-title">${meal.strMeal}</h2>
-                    <p>${meal.strInstructions.substring(0, 100)}...</p>
+                    <p>${meal.strInstructions.substring(0, 110)}...</p>
                 </div>
             </div>
         `;
